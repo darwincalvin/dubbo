@@ -1,5 +1,6 @@
 # Apache Dubbo Project
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ff3ae17e476845eaada2e4eaae5fd9a1)](https://app.codacy.com/gh/darwincalvin/dubbo?utm_source=github.com&utm_medium=referral&utm_content=darwincalvin/dubbo&utm_campaign=Badge_Grade_Settings)
 [![Build Status](https://github.com/apache/dubbo/workflows/Build%20and%20Test%20For%20Dubbo%203/badge.svg?branch=3.0)](https://github.com/apache/dubbo/actions/workflows/build-and-test-3.yml?query=branch%3A3.0)
 [![Build Status](https://travis-ci.com/apache/dubbo.svg?branch=master)](https://travis-ci.com/apache/dubbo)
 [![Codecov](https://codecov.io/gh/apache/dubbo/branch/master/graph/badge.svg)](https://codecov.io/gh/apache/dubbo)
